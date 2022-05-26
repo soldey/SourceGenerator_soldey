@@ -1,0 +1,10 @@
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+E:\work\ИТМО\техи\codegen_ya_ebal\ConsoleApp1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
